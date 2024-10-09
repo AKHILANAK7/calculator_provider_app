@@ -1,3 +1,3 @@
 # calculator_provider_app
 
-A new Flutter project.
+A calculator Application done by using Provider.
